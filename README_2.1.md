@@ -1,5 +1,5 @@
 
-# Práctica 2.1 Fundamentos de JavaSc
+# Práctica 2.1 Fundamentos de JavaScript
 
 ## Objetivo 
 Al finalizar la práctica, serás capaz de:
