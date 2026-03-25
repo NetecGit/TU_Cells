@@ -1,5 +1,5 @@
 
-# Práctica 2.1 Fundamentos de JavaScript
+# Práctica 2.1 Fundamentos de JavaSc
 
 ## Objetivo 
 Al finalizar la práctica, serás capaz de:
@@ -213,25 +213,25 @@ Combina los conceptos aprendidos:
  
 - Captura de pantalla con la salida de la Tarea 1.
  
-![Resultado](../images/image2_1_1.png)
+![Resultado](./images/image2_1_1.png)
 
 <br/><br/>
 
 - Captura de pantalla con la salida de la Tarea 2.
  
-![Resultado](../images/image2_1_2.png)
+![Resultado](./images/image2_1_2.png)
 
 <br/><br/>
 
 - Captura de pantalla con la salida de la Tarea 3.
  
-![Resultado](../images/image2_1_3.png)
+![Resultado](./images/image2_1_3.png)
 
 <br/><br/>
 
 
 - Captura de pantalla con la salida de la Tarea 4.
  
-![Resultado](../images/image2_1_4.png)
+![Resultado](./images/image2_1_4.png)
 
 <br/><br/>

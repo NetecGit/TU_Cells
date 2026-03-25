@@ -257,36 +257,36 @@ console.log(multiplicar(5, 3, 2, valores));
 
 - Captura de pantalla mostrando la salida obtenida en la Tarea 1.
 
-![imagen resultado](../images/image2_4_1.png)
+![imagen resultado](./images/image2_4_1.png)
 
 <br/>
 
 - Captura de pantalla mostrando la salida obtenida en la Tarea 2.
 
-![imagen resultado](../images/image2_4_2.png)
+![imagen resultado](./images/image2_4_2.png)
 
 <br/>
 
 - Captura de pantalla mostrando la salida obtenida en la Tarea 3.
 
-![imagen resultado](../images/image2_4_3.png)
+![imagen resultado](./images/image2_4_3.png)
 
 <br/>
 
 - Captura de pantalla mostrando la salida obtenida en la Tarea 4.
 
-![imagen resultado](../images/image2_4_4.png)
+![imagen resultado](./images/image2_4_4.png)
 
 <br/>
 
 - Captura de pantalla mostrando la salida obtenida en la Tarea 5.
 
-![imagen resultado](../images/image2_4_5.png)
+![imagen resultado](./images/image2_4_5.png)
 
 <br/>
 
 - Captura de pantalla mostrando la salida obtenida en la Tarea 6.
 
-![imagen resultado](../images/image2_4_6.png)
+![imagen resultado](./images/image2_4_6.png)
 
 <br/>

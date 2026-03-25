@@ -62,7 +62,7 @@ Al finalizar la práctica, serás capaz de:
 
 - Captura de pantalla que muestra la salida generada para la jerarquía de clases implementada: vehículos, libros y figuras geométricas.
 
-![imagen resultado](../images/image2_3_1.png)
+![imagen resultado](./images/image2_3_1.png)
 
 <br/>
 

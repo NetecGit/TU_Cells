@@ -81,17 +81,17 @@ Al finalizar la práctica, serás capaz de manipular elementos del DOM seleccion
 
 - Captura de pantalla con el diseño de la página con IFrame.
 
-![Resultado](../images/image1.png)
+![Resultado](./images/image1.png)
 
 <br/>
 
 - Realiza una captura de pantalla que muestre el mensaje de alerta generado al intentar cambiar el contenido del iframe antes de haberlo creado. Este mensaje aparece cuando el botón "Cambiar Contenido" se pulsa sin que el iframe exista en el documento. 
 
-![Resultado](../images/image2_6_2.png)
+![Resultado](./images/image2_6_2.png)
 
 <br/>
 
 - Captura de pantalla que muestra el error generado en la consola del navegador al intentar acceder al contenido del iframe cuando este carga un recurso externo que no cumple con las políticas de mismo origen (CORS). Este error ocurre debido a las restricciones de seguridad impuestas por el navegador para proteger los datos.
 
 
-![Resultado](../images/image2_6_3.png)
+![Resultado](./images/image2_6_3.png)

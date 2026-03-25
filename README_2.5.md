@@ -177,4 +177,4 @@ window.addEventListener("load", () => {
 
 <br/>
 
-![imagen resultado](../images/image2_6_1.png)
+![imagen resultado](./images/image2_6_1.png)

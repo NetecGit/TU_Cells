@@ -143,4 +143,4 @@ Al finalizar esta práctica, serás capaz de:
 ### Resultado esperado
 
 
-![imagen resultado](../images/image2_5_1.png)
+![imagen resultado](./images/image2_5_1.png)

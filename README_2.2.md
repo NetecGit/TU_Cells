@@ -137,24 +137,24 @@ console.log(mayorEdad);
  
 Captura de pantalla que muestra la salida de la Tarea 1.
 
-![imagen resultado](../images/image2_2_1.png)
+![imagen resultado](./images/image2_2_1.png)
 
 <br/>
 
 Captura de pantalla que muestra la salida de la Tarea 2.
 
-![imagen resultado](../images/image2_2_2.png)
+![imagen resultado](./images/image2_2_2.png)
 
 <br/>
 
 Captura de pantalla que muestra la salida de la Tarea 3.
 
-![imagen resultado](../images/image2_2_3.png)
+![imagen resultado](./images/image2_2_3.png)
 
 <br/>
 
 Captura de pantalla que muestra la salida de la Tarea 4.
 
-![imagen resultado](../images/image2_2_4.png)
+![imagen resultado](./images/image2_2_4.png)
 
 <br/>

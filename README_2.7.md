@@ -84,4 +84,4 @@ Al finalizar esta práctica, serás capaz de asociar y manipular dinámicamente 
 
 - Captura de pantalla con la salida de esta práctica.
 
-![Resultado Esperado](../images/image2.png)
+![Resultado Esperado](./images/image2.png)
