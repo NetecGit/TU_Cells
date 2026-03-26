@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manipulación de iframe con DOM</title>
+</head>
+<body>
+  <h1>Manipulación de iframe</h1>
+  <button id="createIframe">Crear iframe</button>
+  <button id="changeContent">Cambiar contenido</button>
+  <div id="container"></div>
+
+  <script>
+    const createIframeButton = document.getElementById("createIframe");
+    const changeContentButton = document.getElementById("changeContent");
+    const container = document.getElementById("container");
+    let iframe; // Variable para almacenar el iframe
+
+    // Evento para crear un iframe
+    createIframeButton.addEventListener("click", () => {
+      // Crear el elemento iframe
+      iframe = document.createElement("iframe");
+      iframe.src = "https://example.com"; // Establecer la URL inicial
+      iframe.width = "600";
+      iframe.height = "400";
+      iframe.style.border = "1px solid #000";
+      container.appendChild(iframe); // Agregar el iframe al contenedor
+    });
+
+    // Evento para cambiar el contenido del iframe
+    changeContentButton.addEventListener("click", () => {
+      if (iframe) {
+        console.log("cambiando el contenido...");
+        const iframeDoc = iframe.contentDocument || iframe.contentWindow.document;
+        // Cambiar el contenido del iframe
+        iframeDoc.body.innerHTML = `
+          <h2>Contenido modificado dinámicamente</h2>
+          <p>Este contenido fue agregado desde el documento principal mediante JavaScript.</p>
+        `;
+      } else {
+        alert("Primero crea un iframe.");
+      }
+    });
+  </script>
+</body>
+</html>
