@@ -196,4 +196,4 @@ customElements.define('bb-component', BBComponent);
 
 Captura de pantalla con la salida de los datos en el navegador.
 
-![imagen resultado](../images/image_3_3_2.png)
+![imagen resultado](./images/image_3_3_2.png)

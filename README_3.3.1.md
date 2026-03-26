@@ -227,6 +227,6 @@ render() {
  
 - Captura de pantalla con la salida de la práctica.
 
-![Resultado](../images/image3_3_1.png)
+![Resultado](./images/image3_3_1.png)
 
 

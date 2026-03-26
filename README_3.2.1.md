@@ -830,39 +830,39 @@ En el bloque `static styles`, implementa el diseño de cuadrícula:
 
 - Captura de pantalla de la Tarea 1. Estilos en Lit
 
-![Resultados Esperados](../images/image3_2_1_1.png)
+![Resultados Esperados](./images/image3_2_1_1.png)
 
 <br/>
 
 - Captura de pantalla de la Tarea 2. Encapsulación de estilos con Shadow DOM
 
-![Resultados Esperados](../images/image3_2_1_2.png)
+![Resultados Esperados](./images/image3_2_1_2.png)
 
 
 <br/>
 
 - Captura de pantalla de la Tarea 3. Uso de CSS en componentes Lit (css y clases dinámicas)
 
-![Resultados Esperados](../images/image3_2_1_3.png)
+![Resultados Esperados](./images/image3_2_1_3.png)
 
 <br/>
 
 - Captura de pantalla de la Tarea 4. Temas
 
-![Resultados Esperados](../images/image3_2_1_4.png)
+![Resultados Esperados](./images/image3_2_1_4.png)
 
 <br/>
 
 - Captura de pantalla de la Tarea 5. Uso de classMap
 
-![Resultados Esperados](../images/image3_2_1_5.png)
+![Resultados Esperados](./images/image3_2_1_5.png)
 
 <br/>
 
 - Captura de pantalla de la Tarea 7. Crear un Componente Lit con Diseño de Cuadrícula (CSS Grid) 
 
 
-![Resultados Esperados](../images/image3_2_1_7.png)
+![Resultados Esperados](./images/image3_2_1_7.png)
 
 
 

@@ -114,11 +114,11 @@ Al finalizar la práctica, serás capaz de:
 
 - Un componente básico de Lit que muestra un mensaje en pantalla y se renderiza correctamente en un navegador.
 
-  ![Resultado Esperado](../images/imagen3_1.png)
+  ![Resultado Esperado](./images/imagen3_1.png)
 
 - Un componente básico de Lit con los cambios en el renderizado y en la página que lo contiene.
 
-  ![Resultado Esperado](../images/imagen3_2.png)
+  ![Resultado Esperado](./images/imagen3_2.png)
 
 
 <br/><br/>
@@ -238,7 +238,7 @@ customElements.define('bb-ciclo', BBCiclo);
 
 - La imagen ilustra perfectamente el ciclo de vida completo de un componente Lit y cómo interactuar con cada etapa.
 
-  ![Resulado Esperado](../images/imagen3_3.png)
+  ![Resulado Esperado](./images/imagen3_3.png)
 
 - **Resumen del flujo:**
 1. constructor: Se crea el componente en memoria.
@@ -298,7 +298,7 @@ setTimeout(() => {
 
 - La imagen ilustra perfectamente el ciclo de vida, en una actualización y eliminación.
 
-  ![Resultado Esperado](../images/imagen3_4.png)
+  ![Resultado Esperado](./images/imagen3_4.png)
 
 - **Resumen del flujo:**
 
@@ -925,7 +925,7 @@ customElements.define('bb-complejo', BBComplejo);
 
 ### **Resultado Esperado:** 
 
-  ![Resultado Esperado](../images/imagen3_5.png)
+  ![Resultado Esperado](./images/imagen3_5.png)
 
 
 <br/><br/>
@@ -1055,7 +1055,7 @@ customElements.define('bb-condicionales', BBCondicionales);
 
 - El ejemplo de condicionales en **Lit** demuestra cómo manejar la lógica de renderizado dinámico utilizando diferentes estructuras condicionales (`operador ternario`, `if-else` y `switch`) dentro de un componente web personalizado. Este enfoque permite renderizar contenido dinámico en función del estado o propiedades del componente, manteniendo el código modular, reutilizable y fácil de leer.
 
-![Resultado Esperado](../images/imagen3_6.png)
+![Resultado Esperado](./images/imagen3_6.png)
 
 
 <br/><br/>
@@ -1149,7 +1149,7 @@ customElements.define('bb-condicionales', BBCondicionales);
 
 - El botón debe alternar correctamente entre mostrar números pares e impares.
 
-  ![Resultado Esperado](../images/imagen3_7.png)
+  ![Resultado Esperado](./images/imagen3_7.png)
 
 
 <br/><br/>
@@ -1264,4 +1264,4 @@ Ejemplo de código a incluir en la página principal:
 
 -  La directiva repeat de Lit se utiliza para optimizar el renderizado de listas en componentes. En lugar de renderizar nuevamente todos los elementos de una lista cada vez que se actualiza, repeat solo actualiza los elementos que han cambiado. Esto mejora el rendimiento, especialmente en listas grandes.
 
-  ![Resultado Esperado](../images/imagen3_8.png)
+  ![Resultado Esperado](./images/imagen3_8.png)
