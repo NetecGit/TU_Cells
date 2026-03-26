@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Práctica 2.5]</title>
+</head>
+<body>
+    <h1>Lista de Usuarios</h1>
+    <button id="loadUsers">Cargar Usuarios</button>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody id="userTable"></tbody>
+    </table>
+
+    <h2>Crear Usuario</h2>
+    <form id="createUserForm">
+        <input type="text" id="userName" placeholder="Nombre" required />
+        <input type="text" id="userJob" placeholder="Trabajo" required />
+        <button type="submit">Crear Usuario</button>
+    </form>
+    <div id="createdUser"></div>
+
+    <script src="practica2_4_2.js"></script>
+</body>
+</html>
