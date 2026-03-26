@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Completar el diseño del formulario",
+      "description": "Diseñar el formulario de ingreso de nuevas tareas en la aplicación.",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Implementar la API REST",
+      "description": "Configurar los endpoints para la gestión de tareas (CRUD).",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Estilizar la lista de tareas",
+      "description": "Aplicar estilos CSS para una mejor visualización de las tareas en la lista.",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Probar la funcionalidad de eliminación",
+      "description": "Verificar que las tareas se eliminen correctamente desde la API y la interfaz.",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "title": "Agregar filtros para tareas completadas",
+      "description": "Implementar filtros para mostrar tareas completadas o pendientes.",
+      "completed": true
+    }
+  ]
+  
