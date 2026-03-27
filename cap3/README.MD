@@ -1,7 +1,7 @@
  
 
 
-## ¿Qué es Vite?
+## VITE
 
 **Vite** es una herramienta moderna de desarrollo frontend que permite crear proyectos web de forma **rápida y ligera**.
 
@@ -50,7 +50,7 @@ npm run dev
 
 <br/><br/>
 
-### Creación directa (sin preguntas)
+### Creación directa, mmodo imperativo
 
 Ejemplo con **Lit + JavaScript**:
 
@@ -64,7 +64,7 @@ npm run dev
 
 <br/><br/>
 
-## Notas
+### Notas
 
 * Vite **no es un framework**, es una herramienta de construcción.
 * Puede trabajar con:
@@ -77,22 +77,22 @@ npm run dev
     * Configuración mínima
     * Arranque inmediato
     * Menos complejidad que herramientas clásicas
-  * Antes de ejecutar el proyecto, es necesario posicionarse dentro de la carpeta del proyecto e instalar las dependencias.
+
+
+<br/>
+
+Para verificar si un proyecto fue creado con **Vite**, revisa el archivo **`package.json`** ubicado en la raíz del proyecto. En este archivo debes buscar la dependencia `"vite"` dentro de las secciones `"dependencies"` o `"devDependencies"`, así como los scripts típicos como `"dev": "vite"`, `"build": "vite build"` y `"preview": "vite preview"`. Si estos elementos están presentes, puedes confirmar que el proyecto utiliza Vite como herramienta de desarrollo y construcción.
+
 
 ```bash
-cd nombre_del_proyecto
-npm install
+   cd nombre_del_proyecto
+   npm install
+   npm run dev
 ```
 
 <br/><br/>
 
-## Vite
-
-Para verificar si un proyecto fue creado con **Vite**, revisa el archivo **`package.json`** ubicado en la raíz del proyecto. En este archivo debes buscar la dependencia `"vite"` dentro de las secciones `"dependencies"` o `"devDependencies"`, así como los scripts típicos como `"dev": "vite"`, `"build": "vite build"` y `"preview": "vite preview"`. Si estos elementos están presentes, puedes confirmar que el proyecto utiliza Vite como herramienta de desarrollo y construcción.
-
-<br/><br/>
-
-## ¿Qué es es-dev-server?
+## ES-DEV-SERVER
 
 es-dev-server es un servidor de desarrollo ligero para aplicaciones web, diseñado especialmente para trabajar con módulos ES (ES Modules) directamente en el navegador.
 
