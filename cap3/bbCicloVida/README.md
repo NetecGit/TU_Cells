@@ -20,6 +20,7 @@
 
 ### Flujo en la creación por primera vez
 
+```txt
 constructor
  → connectedCallback
  → shouldUpdate()
@@ -30,9 +31,11 @@ constructor
    → render()
  → firstUpdated()
  → updated()
+```
 
 ### Flujo cuando una propiedad cambia
 
+```txt
 → shouldUpdate()
    → false → se cancela todo
    → true → continúa
@@ -40,7 +43,7 @@ constructor
 → update()
    → render()
 → updated()
-
+```
 
 <br/><br/>
 
