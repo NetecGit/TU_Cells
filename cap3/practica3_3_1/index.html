@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Slots]</title>
+    <script type="module" src="./src/bb-slots.js"></script>
+</head>
+
+<body>
+    <h1>Práctica 3.3.1 Uso de slots</h1>
+    <bb-card>
+        <div slot="header">Header customizado </div>
+        <p>Contenido de una tarjeta 1</p>
+    </bb-card>
+   
+    <bb-card>
+        <div slot="header">Header customizado 2 </div>
+        <p>Contenido de una tarjeta 2</p>
+    </bb-card>
+
+    <bb-card>
+        <div slot="header">Header Customizado 2</div>
+        <p>Contenido de la tarjeta 3</p>
+        <small slot="footer">Footer personalizado</small>
+    </bb-card>
+
+    <bb-card></bb-card>
+</body>
+
+</html>
