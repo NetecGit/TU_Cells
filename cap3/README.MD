@@ -105,7 +105,11 @@ Es una herramienta que levanta un servidor local para ejecutar tu aplicación si
 * Ideal para proyectos simples o educativos (como Lit o Web Components)
 * Configuración mínima
 
+
+Este proyecto fue creado el equipo de Open Web Components
+
 Repositorio oficial de [es-dev-server](https://github.com/open-wc/es-dev-server)
+
 
 Antes de ejecutar el proyecto, asegúrate de posicionarte en la carpeta del proyecto e instalar las dependencias necesarias.
 
@@ -124,4 +128,15 @@ npm start
 
 Por lo general, la aplicación se abrirá automáticamente en el navegador en la siguiente dirección:
 
-`http://localhost:8000/`
+`http://localhost:8000/` 
+
+<br/><br/>
+
+## Referencias adicionales
+
+* [Web componentes: basic](https://open-wc.org/codelabs/basics/web-components#0)
+* [Lit: basics](https://open-wc.org/codelabs/basics/lit-html#0)
+* [Lit: intermediate](https://open-wc.org/codelabs/intermediate/lit-html#0)
+* [Developing Components: Code Example](https://open-wc.org/guides/developing-components/code-examples/)
+* [HTML 5 Compatibilidad](https://caniuse.com/)
+* [No todo es NPM](https://www.deployhq.com/blog/choosing-the-right-package-manager-npm-vs-yarn-vs-pnpm-vs-bun)
