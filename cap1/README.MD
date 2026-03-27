@@ -1,5 +1,3 @@
-# TU_Cells
-Repositorio creado para la clase del curso de tecnologías usadas en Cells
 
 # Soluciones de las práticas del capítulo 2
 
